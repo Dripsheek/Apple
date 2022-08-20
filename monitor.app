@@ -1,4 +1,6 @@
 #used to monitor app
 grafana
 newrelic
-promateus 
+promateus
+appDynamics
+dynatrace 
