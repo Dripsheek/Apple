@@ -5,4 +5,3 @@ deployment 5 master
 deployment 4
 deploy applications to staging 
 echo "Hello"
-
