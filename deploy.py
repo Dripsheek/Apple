@@ -5,3 +5,5 @@ deployment 5 master
 deployment 4
 deploy applications to staging 
 echo "Hello"
+echo "CAR AUTOMATED"
+echo "your car needs servicing"
