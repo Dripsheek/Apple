@@ -1,0 +1,13 @@
+#!/bin/bash 
+echo Lady
+echo hello
+echo I am a snr. Devops engineer
+<<<<<<< Updated upstream
+echo by the grace of Almighty God
+amen
+pwd
+echo I am blessed
+ 
+=======
+echo by the grace of Almighty God 
+>>>>>>> Stashed changes
